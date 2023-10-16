@@ -9,7 +9,7 @@ looks like in node js.
 As node.js does not run typescript natively, we need to compile the 
 typescript code into javascript.  
 
-We had multiple options for the bundler but we went for (esbuild)[https://esbuild.github.io].
+We had multiple options for the bundler but we went for [esbuild](https://esbuild.github.io).
 esbuild is fast, and relyable, moreover the project documentation is quite good.
 
 ```mermaid
